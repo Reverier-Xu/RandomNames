@@ -1,0 +1,16 @@
+C:\Users\rever\source\repos\RandomNames\bin\Release\RandomNames.exe.config
+C:\Users\rever\source\repos\RandomNames\bin\Release\RandomNames.exe.manifest
+C:\Users\rever\source\repos\RandomNames\bin\Release\RandomNames.application
+C:\Users\rever\source\repos\RandomNames\bin\Release\RandomNames.exe
+C:\Users\rever\source\repos\RandomNames\bin\Release\RandomNames.pdb
+C:\Users\rever\source\repos\RandomNames\obj\Release\RandomNames.csprojAssemblyReference.cache
+C:\Users\rever\source\repos\RandomNames\obj\Release\RandomNames.Main.resources
+C:\Users\rever\source\repos\RandomNames\obj\Release\RandomNames.Properties.Resources.resources
+C:\Users\rever\source\repos\RandomNames\obj\Release\RandomNames.csproj.GenerateResource.cache
+C:\Users\rever\source\repos\RandomNames\obj\Release\RandomNames.csproj.CoreCompileInputs.cache
+C:\Users\rever\source\repos\RandomNames\obj\Release\RandomNames.TrustInfo.xml
+C:\Users\rever\source\repos\RandomNames\obj\Release\RandomNames.exe.manifest
+C:\Users\rever\source\repos\RandomNames\obj\Release\RandomNames.application
+C:\Users\rever\source\repos\RandomNames\obj\Release\RandomNames.exe
+C:\Users\rever\source\repos\RandomNames\obj\Release\RandomNames.pdb
+C:\Users\rever\source\repos\RandomNames\obj\Release\RandomNames.Form2.resources

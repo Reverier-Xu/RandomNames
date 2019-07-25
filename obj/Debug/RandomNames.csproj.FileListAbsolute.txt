@@ -1,0 +1,10 @@
+C:\Users\rever\source\repos\RandomNames\bin\Debug\RandomNames.exe.config
+C:\Users\rever\source\repos\RandomNames\bin\Debug\RandomNames.exe
+C:\Users\rever\source\repos\RandomNames\bin\Debug\RandomNames.pdb
+C:\Users\rever\source\repos\RandomNames\obj\Debug\RandomNames.csprojAssemblyReference.cache
+C:\Users\rever\source\repos\RandomNames\obj\Debug\RandomNames.Main.resources
+C:\Users\rever\source\repos\RandomNames\obj\Debug\RandomNames.Properties.Resources.resources
+C:\Users\rever\source\repos\RandomNames\obj\Debug\RandomNames.csproj.GenerateResource.cache
+C:\Users\rever\source\repos\RandomNames\obj\Debug\RandomNames.csproj.CoreCompileInputs.cache
+C:\Users\rever\source\repos\RandomNames\obj\Debug\RandomNames.exe
+C:\Users\rever\source\repos\RandomNames\obj\Debug\RandomNames.pdb
