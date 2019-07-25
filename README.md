@@ -14,4 +14,4 @@ https://support.microsoft.com/zh-cn/help/3151800/the-net-framework-4-6-2-offline
 
 感谢母校 河南省信阳高级中学
 
-2.19.7.25
+2019.7.25
